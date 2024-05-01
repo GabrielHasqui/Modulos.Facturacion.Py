@@ -1,0 +1,39 @@
+[
+  {
+    "dni": "0951777838",
+    "nombre": "Gabriel",
+    "apellido": "zuares",
+    "valor": 0.1
+  },
+  {
+    "dni": "0987654323",
+    "nombre": "Elizabeth",
+    "apellido": "Cerezo",
+    "valor": 0.1
+  },
+  {
+    "dni": "0911857498",
+    "nombre": "leonor",
+    "apellido": "Gonzales",
+    "valor": 0.1
+  },
+  {
+    "dni": "0606214625",
+    "nombre": "Miguel",
+    "apellido": "Garcia",
+    "valor": 10000
+  },
+  { "dni": "5987512345", "nombre": "Juan", "apellido": "Peres", "valor": 0 },
+  {
+    "dni": "0606214625",
+    "nombre": "Miguel",
+    "apellido": "Garcia",
+    "valor": 0.1
+  },
+  {
+    "dni": "2100944715",
+    "nombre": "Hernan",
+    "apellido": "Sarango",
+    "valor": 10000
+  }
+]

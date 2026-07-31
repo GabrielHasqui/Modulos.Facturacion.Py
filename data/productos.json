@@ -1,0 +1,9 @@
+[
+  { "id": 1, "descripcion": "Peras", "precio": 4.0, "stock": 10 },
+  { "id": 2, "descripcion": "Coca Cola", "precio": 1.5, "stock": 2000 },
+  { "id": 3, "descripcion": "Mortadela", "precio": 2.5, "stock": 700 },
+  { "id": 4, "descripcion": "Fresas", "precio": 3.0, "stock": 20 },
+  { "id": 6, "descripcion": "Frejol", "precio": 3.0, "stock": 40 },
+  { "id": 7, "descripcion": "Tomate", "precio": 0.5, "stock": 10 },
+  { "id": 8, "descripcion": "Guaba", "precio": 0.5, "stock": 29 }
+]
